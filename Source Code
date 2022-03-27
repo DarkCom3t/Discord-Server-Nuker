@@ -6,7 +6,7 @@ from colorama import Fore, Style
 import asyncio
 from webserver import keep_alive
 token = "PUT TOKEN HERE"
-
+# put your bots token here
 
 SPAM_CHANNEL =  [" motherfuckers runs you" , "Get ran" , "FUCKED" , "oops Beamed","F IN CHAT Beamed You","Shoulda Listened","Get beamed clowns","DESTROYED BY DARK ","oops got nuked","I run you","Nuked by Dark","I run you","kinda got beamed by yourself"]
 SPAM_MESSAGE = ["@everyone FUCK YOU GET BEAMED BY DARK","@everyone YOUR PENIS IS SMALL","@everyone GET NUKED PUSSY"]
